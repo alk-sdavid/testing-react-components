@@ -1,0 +1,35 @@
+body,
+button {
+  font-size: 1.25em;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+}
+
+[role='dialog'] {
+  background-color: hotpink;
+  padding: 2em;
+  margin: 2em;
+}
+
+[role='dialog'] button + button {
+  margin-left: 1em;
+}
+
+ul {
+  list-style: none;
+  margin: 1em;
+  padding: 0;
+}
+
+li {
+  padding: 0.25em 1em;
+}
+
+input[type='checkbox'] + label {
+  margin-left: 0.25em;
+}

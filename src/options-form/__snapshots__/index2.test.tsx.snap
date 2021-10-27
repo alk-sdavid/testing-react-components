@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OptionsForm /> should be still well rendered 1`] = `
+<div>
+  <ul>
+    <li>
+      <input
+        checked=""
+        id="option-a"
+        readonly=""
+        type="checkbox"
+      />
+      <label
+        for="option-a"
+      >
+        Option 
+        A
+      </label>
+    </li>
+  </ul>
+  <button
+    disabled=""
+  >
+    Save
+  </button>
+</div>
+`;
+
+exports[`<OptionsForm /> should be well rendered 1`] = `
+<div>
+  <ul>
+    <li>
+      <input
+        checked=""
+        id="option-a"
+        readonly=""
+        type="checkbox"
+      />
+      <label
+        for="option-a"
+      >
+        Option 
+        A
+      </label>
+    </li>
+  </ul>
+  <button
+    disabled=""
+  >
+    Save
+  </button>
+</div>
+`;

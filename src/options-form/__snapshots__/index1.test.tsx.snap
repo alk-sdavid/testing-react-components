@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OptionsForm /> should be still well rendered 1`] = `
+<div>
+  <div>
+    Fetching options...
+  </div>
+</div>
+`;
+
+exports[`<OptionsForm /> should be well rendered 1`] = `
+<div>
+  <div>
+    Fetching options...
+  </div>
+</div>
+`;
